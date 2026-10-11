@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+I am a marketing communications geek interested in digital marketing, blockchain, event sector and NGOs in different aspects. 
 **tolgaozek/tolgaozek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
